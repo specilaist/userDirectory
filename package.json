@@ -1,0 +1,23 @@
+{
+  "name": "19-user-directory",
+  "version": "1.0.0",
+  "description": "For Tracking Employees",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/specilaist/userDirectory.git"
+  },
+  "author": "Eban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/specilaist/userDirectory/issues"
+  },
+  "homepage": "https://github.com/specilaist/userDirectory#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
