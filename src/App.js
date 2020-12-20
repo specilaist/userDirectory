@@ -8,7 +8,7 @@ import Employee from './Pages/employee';
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Navbar/>
       <Route exact path="/" component={MainPage}/>
       <Route exact path="/grid" component={GridPage}/>
